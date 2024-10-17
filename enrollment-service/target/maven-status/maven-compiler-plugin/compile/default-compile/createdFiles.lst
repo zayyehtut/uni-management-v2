@@ -1,0 +1,14 @@
+com\university\enrollmentservice\infrastructure\client\StudentClient.class
+com\university\enrollmentservice\infrastructure\messaging\EnrollmentConsumer.class
+com\university\enrollmentservice\application\dto\CourseDTO.class
+com\university\enrollmentservice\infrastructure\client\CourseClient.class
+com\university\enrollmentservice\application\dto\StudentDTO.class
+com\university\enrollmentservice\EnrollmentServiceApplication.class
+com\university\enrollmentservice\domain\model\Enrollment.class
+com\university\enrollmentservice\domain\repository\AvailableCourseRepository.class
+com\university\enrollmentservice\presentation\controller\EnrollmentController.class
+com\university\enrollmentservice\domain\repository\EnrollmentRepository.class
+com\university\enrollmentservice\presentation\controller\AvailableCourseController.class
+com\university\enrollmentservice\application\service\EnrollmentService.class
+com\university\enrollmentservice\application\service\EnrollmentServiceImpl.class
+com\university\enrollmentservice\domain\model\AvailableCourse.class

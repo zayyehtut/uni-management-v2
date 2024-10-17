@@ -1,0 +1,13 @@
+com\university\facultymanagementservice\application\service\FacultyService.class
+com\university\facultymanagementservice\domain\model\CourseAssignment.class
+com\university\facultymanagementservice\application\dto\CourseDTO.class
+com\university\facultymanagementservice\application\service\FacultyServiceImpl.class
+com\university\facultymanagementservice\presentation\controller\CourseAssignmentController.class
+com\university\facultymanagementservice\application\service\CourseAssignmentServiceImpl.class
+com\university\facultymanagementservice\domain\repository\FacultyRepository.class
+com\university\facultymanagementservice\presentation\controller\FacultyController.class
+com\university\facultymanagementservice\domain\repository\CourseAssignmentRepository.class
+com\university\facultymanagementservice\application\service\CourseAssignmentService.class
+com\university\facultymanagementservice\infrastructure\client\CourseClient.class
+com\university\facultymanagementservice\domain\model\Faculty.class
+com\university\facultymanagementservice\FacultyManagementServiceApplication.class

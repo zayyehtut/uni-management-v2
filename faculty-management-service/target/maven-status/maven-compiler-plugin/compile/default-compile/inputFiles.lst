@@ -1,0 +1,13 @@
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\application\service\CourseAssignmentService.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\application\service\FacultyServiceImpl.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\domain\model\CourseAssignment.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\FacultyManagementServiceApplication.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\domain\repository\CourseAssignmentRepository.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\application\service\FacultyService.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\domain\repository\FacultyRepository.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\application\dto\CourseDTO.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\domain\model\Faculty.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\infrastructure\client\CourseClient.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\presentation\controller\CourseAssignmentController.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\presentation\controller\FacultyController.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\faculty-management-service\src\main\java\com\university\facultymanagementservice\application\service\CourseAssignmentServiceImpl.java

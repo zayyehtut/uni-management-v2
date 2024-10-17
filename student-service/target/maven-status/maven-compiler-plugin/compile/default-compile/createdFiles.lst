@@ -1,0 +1,6 @@
+com\university\studentservice\application\service\StudentService.class
+com\university\studentservice\domain\repository\StudentRepository.class
+com\university\studentservice\presentation\controller\StudentController.class
+com\university\studentservice\StudentServiceApplication.class
+com\university\studentservice\application\service\StudentServiceImpl.class
+com\university\studentservice\domain\model\Student.class

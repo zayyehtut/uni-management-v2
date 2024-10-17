@@ -1,0 +1,16 @@
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\application\dto\StudentDTO.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\application\dto\SemesterGradeReportDTO.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\infrastructure\client\StudentClient.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\infrastructure\client\CourseClient.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\domain\repository\AcademicRecordRepository.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\presentation\controller\AcademicRecordController.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\AcademicRecordsServiceApplication.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\application\dto\TranscriptDTO.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\domain\model\AcademicRecord.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\application\service\AcademicRecordServiceImpl.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\application\dto\CourseDTO.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\application\dto\CourseGradeDTO.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\infrastructure\event\GradeSubmittedEvent.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\application\service\AcademicRecordService.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\infrastructure\messaging\AcademicRecordsConsumer.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\academic-records-service\src\main\java\com\university\academicrecordsservice\domain\model\Grade.java

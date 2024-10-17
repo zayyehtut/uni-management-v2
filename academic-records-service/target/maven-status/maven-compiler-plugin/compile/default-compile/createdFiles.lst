@@ -1,0 +1,16 @@
+com\university\academicrecordsservice\domain\model\Grade.class
+com\university\academicrecordsservice\infrastructure\client\StudentClient.class
+com\university\academicrecordsservice\domain\model\AcademicRecord.class
+com\university\academicrecordsservice\infrastructure\event\GradeSubmittedEvent.class
+com\university\academicrecordsservice\application\dto\StudentDTO.class
+com\university\academicrecordsservice\infrastructure\client\CourseClient.class
+com\university\academicrecordsservice\AcademicRecordsServiceApplication.class
+com\university\academicrecordsservice\infrastructure\messaging\AcademicRecordsConsumer.class
+com\university\academicrecordsservice\application\dto\SemesterGradeReportDTO.class
+com\university\academicrecordsservice\application\dto\TranscriptDTO.class
+com\university\academicrecordsservice\application\dto\CourseDTO.class
+com\university\academicrecordsservice\presentation\controller\AcademicRecordController.class
+com\university\academicrecordsservice\application\dto\CourseGradeDTO.class
+com\university\academicrecordsservice\application\service\AcademicRecordServiceImpl.class
+com\university\academicrecordsservice\domain\repository\AcademicRecordRepository.class
+com\university\academicrecordsservice\application\service\AcademicRecordService.class

@@ -1,0 +1,14 @@
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\domain\repository\AvailableCourseRepository.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\EnrollmentServiceApplication.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\application\service\EnrollmentService.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\infrastructure\client\StudentClient.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\domain\repository\EnrollmentRepository.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\domain\model\Enrollment.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\application\dto\StudentDTO.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\domain\model\AvailableCourse.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\application\service\EnrollmentServiceImpl.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\infrastructure\client\CourseClient.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\infrastructure\messaging\EnrollmentConsumer.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\presentation\controller\AvailableCourseController.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\presentation\controller\EnrollmentController.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\enrollment-service\src\main\java\com\university\enrollmentservice\application\dto\CourseDTO.java

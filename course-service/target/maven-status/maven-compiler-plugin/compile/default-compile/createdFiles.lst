@@ -1,0 +1,11 @@
+com\university\courseservice\infrastructure\event\EnrollmentCreatedEvent.class
+com\university\courseservice\presentation\controller\CourseController.class
+com\university\courseservice\infrastructure\messaging\CourseAnalyticsConsumer.class
+com\university\courseservice\domain\repository\CourseRepository.class
+com\university\courseservice\application\service\CourseService.class
+com\university\courseservice\domain\model\CourseAnalytics.class
+com\university\courseservice\CourseServiceApplication.class
+com\university\courseservice\domain\repository\CourseAnalyticsRepository.class
+com\university\courseservice\application\service\CourseServiceImpl.class
+com\university\courseservice\infrastructure\event\GradeSubmittedEvent.class
+com\university\courseservice\domain\model\Course.class

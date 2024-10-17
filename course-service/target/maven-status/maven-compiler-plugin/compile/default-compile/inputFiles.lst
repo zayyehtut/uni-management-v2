@@ -1,0 +1,11 @@
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\domain\model\Course.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\presentation\controller\CourseController.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\application\service\CourseService.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\domain\repository\CourseRepository.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\application\service\CourseServiceImpl.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\domain\model\CourseAnalytics.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\infrastructure\event\GradeSubmittedEvent.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\infrastructure\messaging\CourseAnalyticsConsumer.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\infrastructure\event\EnrollmentCreatedEvent.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\CourseServiceApplication.java
+D:\PersonalProjects\DeepSeek\UniversityManagementSystem\course-service\src\main\java\com\university\courseservice\domain\repository\CourseAnalyticsRepository.java
