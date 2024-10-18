@@ -16,7 +16,6 @@ The system is designed with a microservices architecture, where each service is 
 - **H2 Database**
 - **Maven**
 - **Lombok**
-- **MapStruct**
 
 ### Implementation Framework
 
